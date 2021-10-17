@@ -1,0 +1,16 @@
+﻿  MonitorGraphUnit.cpp
+c:\users\nana1\documents\visual studio 2015\projects\win32project2\monitorgraphunit.cpp(119): warning C4101: 'Brush': unreferenced local variable
+c:\users\nana1\documents\visual studio 2015\projects\win32project2\monitorgraphunit.cpp(235): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\nana1\documents\visual studio 2015\projects\win32project2\monitorgraphunit.cpp(239): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\nana1\documents\visual studio 2015\projects\win32project2\monitorgraphunit.cpp(257): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+c:\users\nana1\documents\visual studio 2015\projects\win32project2\monitorgraphunit.cpp(272): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\nana1\documents\visual studio 2015\projects\win32project2\monitorgraphunit.cpp(349): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\nana1\documents\visual studio 2015\projects\win32project2\monitorgraphunit.cpp(370): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\nana1\documents\visual studio 2015\projects\win32project2\monitorgraphunit.cpp(414): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\nana1\documents\visual studio 2015\projects\win32project2\monitorgraphunit.cpp(416): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\nana1\documents\visual studio 2015\projects\win32project2\monitorgraphunit.cpp(417): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\nana1\documents\visual studio 2015\projects\win32project2\monitorgraphunit.cpp(418): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\nana1\documents\visual studio 2015\projects\win32project2\monitorgraphunit.cpp(419): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\nana1\documents\visual studio 2015\projects\win32project2\monitorgraphunit.cpp(421): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Win32Project2.vcxproj -> C:\Users\nana1\documents\visual studio 2015\Projects\Win32Project2\Debug\Win32Project2.exe
+  Win32Project2.vcxproj -> C:\Users\nana1\documents\visual studio 2015\Projects\Win32Project2\Debug\Win32Project2.pdb (Full PDB)
